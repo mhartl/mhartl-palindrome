@@ -1,0 +1,19 @@
+
+{
+  "name": "mhartl-palindrome",
+  "version": "0.1.0",
+  "description": "Palindrome detector",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://example.com/"
+  },
+  "author": "Michael Hartl",
+  "license": "ISC",
+  "dependencies": {
+    "npm": "^5.7.1"
+  }
+}
