@@ -26,8 +26,8 @@ describe("Phrase", function() {
     });
 
     it("should return false for an empty string", function() {
-      let blankPhrase = new Phrase("");
-      assert(!blankPhrase.palindrome());
+      let emptyPhrase = new Phrase("");
+      assert(!emptyPhrase.palindrome());
     })
   });
 
